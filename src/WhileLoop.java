@@ -1,5 +1,5 @@
 public class WhileLoop {
-    static boolean isTurnOnLight = true;
+    static boolean isTurnOnLight = false;
     public static void main(String[] args) {
 
         turnOfflight();
